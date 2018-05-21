@@ -1,0 +1,4 @@
+ErrorDocument 401 http://wua.000webhostapp.com/error401.html
+ErrorDocument 403 http://wua.000webhostapp.com/error403.html
+ErrorDocument 404 http://wua.000webhostapp.com/error404.html
+ErrorDocument 502 http://wua.000webhostapp.com/error502.html

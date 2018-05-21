@@ -1,0 +1,47 @@
+#stats {
+	margin-top: 10%;
+}
+
+#connection, #inscription {
+	margin-bottom: 10%;
+	margin-top: 10%;
+	display: inline-block;
+}
+
+#inscription-switch, #connection-switch {
+	cursor: pointer;
+}
+
+#inscription {
+	display: none;
+}
+
+input {
+	color: #362F2D;
+	font-family: AvenirLTSTD_Heavy;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	min-width: 250px;
+	width: 50%;
+}
+
+select {
+	color: #362F2D;
+	font-family: AvenirLTSTD_Heavy;
+	min-width: 250px;
+	width: 50%;
+}
+
+form p {
+	margin-bottom: 0px;
+	margin-top: 5px;
+	padding-bottom: 0px;
+}
+
+input[type=date] {
+	margin-top: 0px;
+}
+
+.ui-selectmenu-button-text {
+	display: none;
+}
